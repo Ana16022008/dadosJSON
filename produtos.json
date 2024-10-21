@@ -1,0 +1,28 @@
+[
+    {
+        "Nome": "Calça Jeans",
+        "Tamanho": 42,
+        "Preço": 139.99,
+        "imagem" "img/tets.jpg"
+    },
+    {
+        "Nome": "vestido",
+        "Tamanho": "P, M, G",
+        "Preço": 69.99,
+        "imagem" "img/tets.jpg"
+    },
+    {
+    "Nome": "Jaqueta",
+    "Tamanho": " P, M, G, GG",
+    "Preço": 513.95,
+    "imagem" "img/tets.jpg"
+    },
+    {
+        "Nome": "Cropped corselete strass",
+        "Tamanho": " P, M, G, GG",
+        "Preço": 39.00,
+        "imagem" "img/tets.jpg
+
+    },
+    
+]
