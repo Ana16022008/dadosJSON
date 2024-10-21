@@ -1,28 +1,38 @@
 [
     {
-        "Nome": "Calça Jeans",
-        "Tamanho": 42,
-        "Preço": 139.99,
-        "imagem" "img/tets.jpg"
+        "Nome": "Wide leg ",
+        "Tamanho": "36,38,40,42,44,46",
+        "Preço": 49.99,
+        "imagem": "img/calcawideleg.jpeg"
     },
     {
         "Nome": "vestido",
         "Tamanho": "P, M, G",
         "Preço": 69.99,
-        "imagem" "img/tets.jpg"
+        "imagem": "img/vestido.webp"
     },
     {
-    "Nome": "Jaqueta",
-    "Tamanho": " P, M, G, GG",
-    "Preço": 513.95,
-    "imagem" "img/tets.jpg"
+        "Nome": "Jaqueta",
+        "Tamanho": " P, M, G, GG",
+        "Preço": 513.95,
+        "imagem": "im/jaqueta.webp"
     },
     {
         "Nome": "Cropped corselete strass",
         "Tamanho": " P, M, G, GG",
-        "Preço": 39.00,
-        "imagem" "img/tets.jpg
-
+        "Preço": 188.21,
+        "imagem": "img/croped.jpg"
     },
-    
+    {
+        "Nome": "macacão feminino ",
+        "Tamanho": " P, M, G, GG",
+        "Preço": 513.95,
+        "imagem": "img/macacao.jpg"
+    },
+    {
+        "Nome": "body femiino",
+        "Tamanho": " P, M, G, GG",
+        "Preço": 35.99,
+        "imagem": "img/body.webp"
+    }
 ]
